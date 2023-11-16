@@ -1,0 +1,14 @@
+D:\csharp_projects\FileSys\FileSys\bin\Debug\net7.0\FileSys.exe
+D:\csharp_projects\FileSys\FileSys\bin\Debug\net7.0\FileSys.deps.json
+D:\csharp_projects\FileSys\FileSys\bin\Debug\net7.0\FileSys.runtimeconfig.json
+D:\csharp_projects\FileSys\FileSys\bin\Debug\net7.0\FileSys.dll
+D:\csharp_projects\FileSys\FileSys\bin\Debug\net7.0\FileSys.pdb
+D:\csharp_projects\FileSys\FileSys\obj\Debug\net7.0\FileSys.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_projects\FileSys\FileSys\obj\Debug\net7.0\FileSys.AssemblyInfoInputs.cache
+D:\csharp_projects\FileSys\FileSys\obj\Debug\net7.0\FileSys.AssemblyInfo.cs
+D:\csharp_projects\FileSys\FileSys\obj\Debug\net7.0\FileSys.csproj.CoreCompileInputs.cache
+D:\csharp_projects\FileSys\FileSys\obj\Debug\net7.0\FileSys.dll
+D:\csharp_projects\FileSys\FileSys\obj\Debug\net7.0\refint\FileSys.dll
+D:\csharp_projects\FileSys\FileSys\obj\Debug\net7.0\FileSys.pdb
+D:\csharp_projects\FileSys\FileSys\obj\Debug\net7.0\FileSys.genruntimeconfig.cache
+D:\csharp_projects\FileSys\FileSys\obj\Debug\net7.0\ref\FileSys.dll
